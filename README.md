@@ -5,7 +5,7 @@ BlackJack card game in java (web app)
 Check showcase video on youtube:
 
 
-(soon)
+https://youtu.be/kMlRauy5Ijw
 
 
 Technologies used:
