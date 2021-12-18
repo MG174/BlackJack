@@ -19,3 +19,7 @@ Technologies used:
 -JSP
 
 -HTML
+
+
+
+Note: No images were put in repository
