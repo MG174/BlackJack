@@ -1,0 +1,88 @@
+.display_images {
+    display: flex; 
+    /*    margin: 0 5px;*/
+    width: auto;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.playing_card {
+    display: flex; 
+    margin: 0 5px;
+    height: auto; 
+    width: auto; 
+    max-width: 175px; 
+    max-height: 175px; 
+}
+
+body {
+    background-image: url("../images/poker_table.png");
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 250%;
+}
+
+h4 {
+    color: #ffffff;
+    font-size: 150%;
+}
+
+h5 {
+    color: #ffffff;
+    font-size: 100%;
+}
+
+label {
+    color: #ffffff;
+    font-size: 125%;;
+}
+
+input {
+    border-color: white;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    color: #ffffff;
+    width: 50%;
+    background: transparent;
+    padding: 2%;
+    font-size: 125%;
+    margin-top:0.5%;
+}
+
+input[type="submit"]:active {
+    background: #ffffff;
+}
+
+.index_div {
+    margin-top: 5%;
+    width: 99%;
+    text-align: center;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.playing_div {
+    margin-top:1%;
+    width: 99%;
+    text-align: center;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    font-size: 75%;
+}
+
+.form_playing {
+    margin: 1%;
+    float: left;
+    padding: 2%;
+    width: 20%;
+    margin-top: -1%;
+}
